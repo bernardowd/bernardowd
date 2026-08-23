@@ -7,4 +7,4 @@
   <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=17&duration=2500&pause=1000&color=dcdcdc&center=true&vCenter=true&width=600&lines=Tim+Drake...+do+you+want+to+go+out+on+a+date+with+me?;Yeah...+Yeah,+I+think+I+want+that" alt="Interests">
   <p align="center">
-   <img alt="image" src="https://komarev.com/ghpvc/?username=bernardowd&color=dcdcdc&label=TIMBERNS&style=plastic" />
+   <img alt="image" src="https://komarev.com/ghpvc/?username=bernardowd&color=dcdcdc&label=TIMBERNS&style=social" />
